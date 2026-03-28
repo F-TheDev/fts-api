@@ -1,6 +1,7 @@
-k{
+{
   "name": "fts-api",
   "version": "1.0.0",
+  "description": "FTS Enterprises Roblox API",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
